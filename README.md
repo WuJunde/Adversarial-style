@@ -4,8 +4,11 @@ This is the code of paper: Generating adversarial examples under the hardest con
 For runing this code:
 ## Preparation
 python 3.6
+
 pytorch 1.3
+
 tensorflow1.5(optional)
+
 tensorboardX1.6(optionnal)
 ## Training
 For training, please prepare:
