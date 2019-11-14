@@ -9,7 +9,7 @@ pytorch 1.3
 
 tensorflow1.5(optional)
 
-tensorboardX1.6(optionnal)
+tensorboardX1.6(optional)
 ## Training
 For training, please prepare:
   1. A dataset of source images(natural images). In the paper, we used ImageNet 2017 dataset.
