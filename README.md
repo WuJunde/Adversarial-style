@@ -1,5 +1,6 @@
 # Adversarial-Style
-This is the code of paper: Generating adversarial examples under the hardest conditions
+This is the code of paper: Generating adversarial examples under the hardest conditions.
+
 For runing this code:
 ## Preparation
 python 3.6
