@@ -2,6 +2,8 @@
 
 This is the code of paper: Generating adversarial examples under the hardest conditions.
 
+Paper: https://arxiv.org/abs/1908.11332
+
 some examples:
 
 ![fig2_TR+DR](https://github.com/WuJunde/adversarial-style/blob/master/fig2_TR+DR.jpg)
